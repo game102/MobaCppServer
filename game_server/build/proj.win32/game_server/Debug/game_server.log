@@ -1,0 +1,90 @@
+﻿  fs-poll.c
+  inet.c
+e:\projectjimmy\ccc\mobacppserver\game_server\3rd\libuv\src\inet.c(62): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(338): note: see declaration of 'strncpy'
+e:\projectjimmy\ccc\mobacppserver\game_server\3rd\libuv\src\inet.c(139): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+e:\projectjimmy\ccc\mobacppserver\game_server\3rd\libuv\src\inet.c(152): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+  threadpool.c
+e:\projectjimmy\ccc\mobacppserver\game_server\3rd\libuv\src\threadpool.c(147): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdlib.h(1191): note: see declaration of 'getenv'
+  uv-common.c
+  version.c
+  async.c
+  core.c
+  dl.c
+  error.c
+  fs-event.c
+e:\projectjimmy\ccc\mobacppserver\game_server\3rd\libuv\src\win\fs-event.c(78): warning C4996: 'wcsncpy': This function or variable may be unsafe. Consider using wcsncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstring.h(205): note: see declaration of 'wcsncpy'
+e:\projectjimmy\ccc\mobacppserver\game_server\3rd\libuv\src\win\fs-event.c(102): warning C4996: 'wcsdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _wcsdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstring.h(580): note: see declaration of 'wcsdup'
+e:\projectjimmy\ccc\mobacppserver\game_server\3rd\libuv\src\win\fs-event.c(109): warning C4996: 'wcsncpy': This function or variable may be unsafe. Consider using wcsncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstring.h(205): note: see declaration of 'wcsncpy'
+e:\projectjimmy\ccc\mobacppserver\game_server\3rd\libuv\src\win\fs-event.c(117): warning C4996: 'wcsncpy': This function or variable may be unsafe. Consider using wcsncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstring.h(205): note: see declaration of 'wcsncpy'
+e:\projectjimmy\ccc\mobacppserver\game_server\3rd\libuv\src\win\fs-event.c(409): warning C4996: '_snwprintf': This function or variable may be unsafe. Consider using _snwprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(1667): note: see declaration of '_snwprintf'
+  fs.c
+e:\projectjimmy\ccc\mobacppserver\game_server\3rd\libuv\src\win\fs.c(118): warning C4996: '__p__fmode': This function or variable may be unsafe. Consider using _get_fmode instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdlib.h(240): note: see declaration of '__p__fmode'
+e:\projectjimmy\ccc\mobacppserver\game_server\3rd\libuv\src\win\fs.c(401): warning C4996: 'umask': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _umask. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_io.h(548): note: see declaration of 'umask'
+e:\projectjimmy\ccc\mobacppserver\game_server\3rd\libuv\src\win\fs.c(402): warning C4996: 'umask': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _umask. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_io.h(548): note: see declaration of 'umask'
+e:\projectjimmy\ccc\mobacppserver\game_server\3rd\libuv\src\win\fs.c(808): warning C4996: 'wcstombs': This function or variable may be unsafe. Consider using wcstombs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdlib.h(1015): note: see declaration of 'wcstombs'
+e:\projectjimmy\ccc\mobacppserver\game_server\3rd\libuv\src\win\fs.c(1550): warning C4996: 'wcsncpy': This function or variable may be unsafe. Consider using wcsncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstring.h(205): note: see declaration of 'wcsncpy'
+  getaddrinfo.c
+  getnameinfo.c
+  handle.c
+  loop-watcher.c
+  pipe.c
+e:\projectjimmy\ccc\mobacppserver\game_server\3rd\libuv\src\win\pipe.c(188): warning C4996: 'close': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _close. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_io.h(459): note: see declaration of 'close'
+  poll.c
+  process-stdio.c
+  process.c
+e:\projectjimmy\ccc\mobacppserver\game_server\3rd\libuv\src\win\process.c(204): warning C4996: 'wcsncpy': This function or variable may be unsafe. Consider using wcsncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstring.h(205): note: see declaration of 'wcsncpy'
+e:\projectjimmy\ccc\mobacppserver\game_server\3rd\libuv\src\win\process.c(214): warning C4996: 'wcsncpy': This function or variable may be unsafe. Consider using wcsncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstring.h(205): note: see declaration of 'wcsncpy'
+e:\projectjimmy\ccc\mobacppserver\game_server\3rd\libuv\src\win\process.c(224): warning C4996: 'wcsncpy': This function or variable may be unsafe. Consider using wcsncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstring.h(205): note: see declaration of 'wcsncpy'
+e:\projectjimmy\ccc\mobacppserver\game_server\3rd\libuv\src\win\process.c(235): warning C4996: 'wcsncpy': This function or variable may be unsafe. Consider using wcsncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstring.h(205): note: see declaration of 'wcsncpy'
+e:\projectjimmy\ccc\mobacppserver\game_server\3rd\libuv\src\win\process.c(463): warning C4996: 'wcsncpy': This function or variable may be unsafe. Consider using wcsncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstring.h(205): note: see declaration of 'wcsncpy'
+e:\projectjimmy\ccc\mobacppserver\game_server\3rd\libuv\src\win\process.c(474): warning C4996: 'wcsncpy': This function or variable may be unsafe. Consider using wcsncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstring.h(205): note: see declaration of 'wcsncpy'
+e:\projectjimmy\ccc\mobacppserver\game_server\3rd\libuv\src\win\process.c(515): warning C4996: 'wcsrev': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _wcsrev. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstring.h(614): note: see declaration of 'wcsrev'
+e:\projectjimmy\ccc\mobacppserver\game_server\3rd\libuv\src\win\process.c(589): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstring.h(123): note: see declaration of 'wcscpy'
+e:\projectjimmy\ccc\mobacppserver\game_server\3rd\libuv\src\win\process.c(791): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstring.h(123): note: see declaration of 'wcscpy'
+  req.c
+  Generating Code...
+  Compiling...
+  signal.c
+  snprintf.c
+  stream.c
+  tcp.c
+  thread.c
+  timer.c
+  tty.c
+e:\projectjimmy\ccc\mobacppserver\game_server\3rd\libuv\src\win\tty.c(2100): warning C4996: 'close': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _close. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_io.h(459): note: see declaration of 'close'
+  udp.c
+  util.c
+e:\projectjimmy\ccc\mobacppserver\game_server\3rd\libuv\src\win\util.c(432): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(338): note: see declaration of 'strncpy'
+e:\projectjimmy\ccc\mobacppserver\game_server\3rd\libuv\src\win\util.c(634): warning C4996: '_snwprintf': This function or variable may be unsafe. Consider using _snwprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(1667): note: see declaration of '_snwprintf'
+  winapi.c
+  winsock.c
+  Generating Code...
+  main.cc
+  game_server.vcxproj -> E:\ProjectJimmy\CCC\MobaCppServer\game_server\build\proj.win32\Debug\game_server.exe

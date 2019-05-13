@@ -1,0 +1,65 @@
+﻿  fs-poll.c
+e:\projectjimmy\ccc\mobacppserver\game_server\3rd\src\fs-poll.c(22): fatal error C1083: Cannot open include file: 'uv.h': No such file or directory
+  inet.c
+e:\projectjimmy\ccc\mobacppserver\game_server\3rd\src\inet.c(27): fatal error C1083: Cannot open include file: 'uv.h': No such file or directory
+  threadpool.c
+e:\projectjimmy\ccc\mobacppserver\game_server\3rd\src\uv-common.h(40): fatal error C1083: Cannot open include file: 'uv.h': No such file or directory
+  uv-common.c
+e:\projectjimmy\ccc\mobacppserver\game_server\3rd\src\uv-common.c(22): fatal error C1083: Cannot open include file: 'uv.h': No such file or directory
+  version.c
+e:\projectjimmy\ccc\mobacppserver\game_server\3rd\src\version.c(22): fatal error C1083: Cannot open include file: 'uv.h': No such file or directory
+  async.c
+e:\projectjimmy\ccc\mobacppserver\game_server\3rd\src\win\async.c(24): fatal error C1083: Cannot open include file: 'uv.h': No such file or directory
+  core.c
+e:\projectjimmy\ccc\mobacppserver\game_server\3rd\src\win\core.c(32): fatal error C1083: Cannot open include file: 'uv.h': No such file or directory
+  dl.c
+e:\projectjimmy\ccc\mobacppserver\game_server\3rd\src\win\dl.c(22): fatal error C1083: Cannot open include file: 'uv.h': No such file or directory
+  error.c
+e:\projectjimmy\ccc\mobacppserver\game_server\3rd\src\win\error.c(28): fatal error C1083: Cannot open include file: 'uv.h': No such file or directory
+  fs-event.c
+e:\projectjimmy\ccc\mobacppserver\game_server\3rd\src\win\fs-event.c(27): fatal error C1083: Cannot open include file: 'uv.h': No such file or directory
+  fs.c
+e:\projectjimmy\ccc\mobacppserver\game_server\3rd\src\win\fs.c(33): fatal error C1083: Cannot open include file: 'uv.h': No such file or directory
+  getaddrinfo.c
+e:\projectjimmy\ccc\mobacppserver\game_server\3rd\src\win\getaddrinfo.c(24): fatal error C1083: Cannot open include file: 'uv.h': No such file or directory
+  getnameinfo.c
+e:\projectjimmy\ccc\mobacppserver\game_server\3rd\src\win\getnameinfo.c(25): fatal error C1083: Cannot open include file: 'uv.h': No such file or directory
+  handle.c
+e:\projectjimmy\ccc\mobacppserver\game_server\3rd\src\win\handle.c(26): fatal error C1083: Cannot open include file: 'uv.h': No such file or directory
+  loop-watcher.c
+e:\projectjimmy\ccc\mobacppserver\game_server\3rd\src\win\loop-watcher.c(24): fatal error C1083: Cannot open include file: 'uv.h': No such file or directory
+  pipe.c
+e:\projectjimmy\ccc\mobacppserver\game_server\3rd\src\win\pipe.c(28): fatal error C1083: Cannot open include file: 'uv.h': No such file or directory
+  poll.c
+e:\projectjimmy\ccc\mobacppserver\game_server\3rd\src\win\poll.c(25): fatal error C1083: Cannot open include file: 'uv.h': No such file or directory
+  process-stdio.c
+e:\projectjimmy\ccc\mobacppserver\game_server\3rd\src\win\process-stdio.c(27): fatal error C1083: Cannot open include file: 'uv.h': No such file or directory
+  process.c
+e:\projectjimmy\ccc\mobacppserver\game_server\3rd\src\win\process.c(31): fatal error C1083: Cannot open include file: 'uv.h': No such file or directory
+  req.c
+e:\projectjimmy\ccc\mobacppserver\game_server\3rd\src\win\req.c(24): fatal error C1083: Cannot open include file: 'uv.h': No such file or directory
+  Generating Code...
+  Compiling...
+  signal.c
+e:\projectjimmy\ccc\mobacppserver\game_server\3rd\src\win\signal.c(24): fatal error C1083: Cannot open include file: 'uv.h': No such file or directory
+  snprintf.c
+  stream.c
+e:\projectjimmy\ccc\mobacppserver\game_server\3rd\src\win\stream.c(24): fatal error C1083: Cannot open include file: 'uv.h': No such file or directory
+  tcp.c
+e:\projectjimmy\ccc\mobacppserver\game_server\3rd\src\win\tcp.c(25): fatal error C1083: Cannot open include file: 'uv.h': No such file or directory
+  thread.c
+e:\projectjimmy\ccc\mobacppserver\game_server\3rd\src\win\thread.c(26): fatal error C1083: Cannot open include file: 'uv.h': No such file or directory
+  timer.c
+e:\projectjimmy\ccc\mobacppserver\game_server\3rd\src\win\timer.c(25): fatal error C1083: Cannot open include file: 'uv.h': No such file or directory
+  tty.c
+e:\projectjimmy\ccc\mobacppserver\game_server\3rd\src\win\tty.c(37): fatal error C1083: Cannot open include file: 'uv.h': No such file or directory
+  udp.c
+e:\projectjimmy\ccc\mobacppserver\game_server\3rd\src\win\udp.c(25): fatal error C1083: Cannot open include file: 'uv.h': No such file or directory
+  util.c
+e:\projectjimmy\ccc\mobacppserver\game_server\3rd\src\win\util.c(30): fatal error C1083: Cannot open include file: 'uv.h': No such file or directory
+  winapi.c
+e:\projectjimmy\ccc\mobacppserver\game_server\3rd\src\win\winapi.c(24): fatal error C1083: Cannot open include file: 'uv.h': No such file or directory
+  winsock.c
+e:\projectjimmy\ccc\mobacppserver\game_server\3rd\src\win\winsock.c(25): fatal error C1083: Cannot open include file: 'uv.h': No such file or directory
+  main.c
+  Generating Code...
