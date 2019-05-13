@@ -11,6 +11,7 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install the software and how to install them
 
 ```
+git init
 git remote add origin https://github.com/game102/MobaCppServer.git
 git pull origin master
 git add .
